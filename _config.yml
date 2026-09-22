@@ -1,0 +1,5 @@
+# Override Jekyll config to set custom parameters
+theme: jekyll-theme-cayman
+include:
+  - _pages
+  
