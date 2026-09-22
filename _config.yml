@@ -2,4 +2,4 @@
 theme: jekyll-theme-cayman
 include:
   - _pages
-  
+show_downloads: false
