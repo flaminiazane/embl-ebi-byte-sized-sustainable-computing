@@ -1,2 +1,2 @@
-# embl-ebi--byte-sized-sustainable-computing
+# Read me file
 Byte-sized training events on sustainable computing: registrations info
