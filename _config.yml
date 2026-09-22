@@ -1,3 +1,4 @@
 # Override Jekyll config to set custom parameters
 theme: minima
-
+title: Sustainable computing - Byte-sized sessions
+description: Event registration details
